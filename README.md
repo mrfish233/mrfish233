@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **Python-based AI Project**
 - 🌱 Learning **Cloud Services, DevOps**
 - 📫 **baboom003@gmail.com**
-- 📝 **[https://lunaterra.xyz](https://lunaterra.xyz)**
+- 🌐 **[lunaterra.xyz](https://lunaterra.xyz)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
