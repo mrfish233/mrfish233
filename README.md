@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on **Python-based AI Project** and **My Blog**
 - 🌱 Learning **Cloud Services, DevOps**
-- 📫 **baboom003@gmail.com**
-- 🌐 **[lunaterra.xyz](https://lunaterra.xyz)**
 
 ## Languages and Tools
 
