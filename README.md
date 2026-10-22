@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Hon, Xin Shao
 
-- 🔭 Currently working on **Python-based AI Project** and **My Blog**
+- 🔭 Currently working on **Web-based Project**
 - 🌱 Learning **Cloud Services, DevOps**
 
 ## Languages and Tools
